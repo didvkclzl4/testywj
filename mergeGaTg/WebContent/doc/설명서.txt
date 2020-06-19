@@ -1,0 +1,2 @@
+merge 와 non-merge에 대해서 알아보자
+index.jsp와 함께 코드가 적혀야 작동이 된다.
